@@ -1,4 +1,7 @@
 Hostname,Label,Vod,Live,Situação
+
+
+
 gca-vivo-spovun001,edge-vivo-vun-sp,vod-01.edge-vivo-vun-sp.video.globo.com,live-01.edge-vivo-vun-sp.video.globo.com,Produção
 gca-vivo-spopen01,edge-vivo-pen-sp,vod-01.edge-vivo-pen-sp.video.globo.com,live-01.edge-vivo-pen-sp.video.globo.com,Produção
 gca-vivo-ldagmb001,edge-vivo-ldb-pr,vod-01.edge-vivo-ldb-pr.video.globo.com,live-01.edge-vivo-ldb-pr.video.globo.com,Desativado
