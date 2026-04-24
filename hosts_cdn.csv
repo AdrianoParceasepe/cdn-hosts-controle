@@ -54,7 +54,7 @@ gca-winet-spgru001,edge-winet-gru-sp,vod-01.edge-winet-gru-sp.video.globo.com,li
 gca-speednet-rjvra001,edge-speednet-vra-rj,vod-01.edge-speednet-vra-rj.video.globo.com,live-01.edge-speednet-vra-rj.video.globo.com,Produção
 gca-giganet-roope001,edge-giganet-ope-ro,vod-01.edge-giganet-ope-ro.video.globo.com,live-01.edge-giganet-ope-ro.video.globo.com,Produção
 gca-altarede-rjnfu001,edge-altarede-nfu-rj,vod-01.edge-altarede-nfu-rj.video.globo.com,live-01.edge-altarede-nfu-rj.video.globo.com,Produção
-gca-ultraconexao-rjita001,edge-ultraconexao-ita-rj,vod-01.edge-ultraconexao-ita-rj.video.globo.com,live-01.edge-ultraconexao-ita-rj.video.globo.com,Deploy
+gca-ultraconexao-rjita001,edge-ultraconexao-ita-rj,vod-01.edge-ultraconexao-ita-rj.video.globo.com,live-01.edge-ultraconexao-ita-rj.video.globo.com,teste
 gca-vtal-ceald001,edge-vtal-for-ce,vod-01.edge-vtal-for-ce.video.globo.com,live-01.edge-vtal-for-ce.video.globo.com,Produção
 gca-vtal-dfstco001,edge-vtal-bsb-df,vod-01.edge-vtal-bsb-df.video.globo.com,live-01.edge-vtal-bsb-df.video.globo.com,Produção
 gca-vtal-gocto001,edge-vtal-gyn-go,vod-01.edge-vtal-gyn-go.video.globo.com,live-01.edge-vtal-gyn-go.video.globo.com,Produção
