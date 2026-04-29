@@ -79,7 +79,8 @@ gca-mottanet-spirr001,edge-mottanet-irr-sp,vod-01.edge-mottanet-irr-sp.video.glo
 gca-sjnet-rjsjm002,edge-sjnet-sjm-rj,vod-02.edge-sjnet-sjm-rj.video.globo.com,live-02.edge-sjnet-sjm-rj.video.globo.com,Produção
 gca-america-spjtc001,edge-america-jtc-sp,vod-01.edge-america-jtc-sp.video.globo.com,live-01.edge-america-jtc-sp.video.globo.com,Produção
 gca-net-sposa002,edge-claro-osa-sp,vod-02.edge-claro-osa-sp.video.globo.com,live-02.edge-claro-osa-sp.video.globo.com,Produção
-gca-net-bhz002,edge-claro-plu-mg,vod-02.edge-claro-plu-mg.video.globo.com,live-02.edge-claro-plu-mg.video.globo.com,Produção
+gca-net-bhz002,edge-claro-plu-mg,vod-02.edge-claro-plu-mg.video.globo.com,live-02.edge-claro-plu-mg.video.globo.com,Desativado
+
 gca-net-sne002,edge-claro-sne-sp,vod-02.edge-claro-sne-sp.video.globo.com,live-02.edge-claro-sne-sp.video.globo.com,Produção
 gca-vtal-rjdqx001,edge-vtal-dcs-rj,vod-01.edge-vtal-dcs-rj.video.globo.com,live-01.edge-vtal-dcs-rj.video.globo.com,Produção
 gca-net-rec002,edge-claro-rec-pe,vod-02.edge-claro-rec-pe.video.globo.com,live-02.edge-claro-rec-pe.video.globo.com,Produção
