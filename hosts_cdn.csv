@@ -175,7 +175,7 @@ gca-gtce-infonet-alapq001,gtce-infonet-apq-al,vod-01.gtce-infonet-apq-al.video.g
 gca-gtce-speednet-patac001,gtce-speednet-tac-pa,vod-01.gtce-speednet-tac-pa.video.globo.com,live-01.gtce-speednet-tac-pa.video.globo.com,Produção
 gca-gtce-jjinter-prate001,gtce-jjinter-ate-pr,vod-01.gtce-jjinter-ate-pr.video.globo.com,live-01.gtce-jjinter-ate-pr.video.globo.com,Produção
 gca-gtce-sacranet-mguba001,gtce-sacranet-uba-mg,vod-01.gtce-sacranet-uba-mg.video.globo.com,live-01.gtce-sacranet-uba-mg.video.globo.com,Produção
-gca-gtce-dbugtel-prpmy001,gtce-dbugtel-pmy-pr,vod-01.gtce-dbugtel-pmy-pr.video.globo.com,live-01.gtce-dbugtel-pmy-pr.video.globo.com,Deploy
+gca-gtce-dbugtel-prpmy001,gtce-dbugtel-pmy-pr,vod-01.gtce-dbugtel-pmy-pr.video.globo.com,live-01.gtce-dbugtel-pmy-pr.video.globo.com,Produção
 gca-gtce-xturbo-sparr001,gtce-xturbo-arr-sp,vod-01.gtce-xturbo-arr-sp.video.globo.com,live-01.gtce-xturbo-arr-sp.video.globo.com,Produção
 gca-gtce-nippontec-mabss001,gtce-nippontec-bss-ma,vod-01.gtce-nippontec-bss-ma.video.globo.com,live-01.gtce-nippontec-bss-ma.video.globo.com,Produção
 gca-gtce-digital-seaju001,gtce-digital-aju-se,vod-01.gtce-digital-aju-se.video.globo.com,live-01.gtce-digital-aju-se.video.globo.com,Produção
@@ -214,13 +214,13 @@ gca-gtce-conecta-mgsji001,gtce-conecta-sji-mg,vod-01.gtce-conecta-sji-mg.video.g
 gca-gtce-viarapida-prlsu001,gtce-viarapida-lsu-pr,vod-01.gtce-viarapida-lsu-pr.video.globo.com,live-01.gtce-viarapida-lsu-pr.video.globo.com,Produção
 gca-claro-prcwb001,edge-claro-cwb-pr,vod-01.edge-claro-cwb-pr.video.globo.com,live-01.edge-claro-cwb-pr.video.globo.com,Produção
 gca-gtce-poxnet-spsor001,gtce-poxnet-sor-sp,vod-01.gtce-poxnet-sor-sp.video.globo.com,live-01.gtce-poxnet-sor-sp.video.globo.com,Produção
-gca-gtce-infolest-ammao001,gtce-infolest-mao-am,vod-01.gtce-infolest-mao-am.video.globo.com,live-01.gtce-infolest-mao-am.video.globo.com,Deploy
+gca-gtce-infolest-ammao001,gtce-infolest-mao-am,vod-01.gtce-infolest-mao-am.video.globo.com,live-01.gtce-infolest-mao-am.video.globo.com,Produção
 gca-gtce-digitalnet-mscgr001,gtce-digitalnet-cgr-ms,vod-01.gtce-digitalnet-cgr-ms.video.globo.com,live-01.gtce-digitalnet-cgr-ms.video.globo.com,Produção
 gca-gtce-rbttel-rsgro001,gtce-rbttel-gro-rs,vod-01.gtce-rbttel-gro-rs.video.globo.com,live-01.gtce-rbttel-gro-rs.video.globo.com,Produção
-gca-gtce-sebratel-rspoa001,gtce-sebratel-poa-rs,vod-01.gtce-sebratel-poa-rs.video.globo.com,live-01.gtce-sebratel-poa-rs.video.globo.com,Deploy
+gca-gtce-sebratel-rspoa001,gtce-sebratel-poa-rs,vod-01.gtce-sebratel-poa-rs.video.globo.com,live-01.gtce-sebratel-poa-rs.video.globo.com,Produção
 gca-gtce-brphonia-rssra001,gtce-brphonia-sra-rs,vod-01.gtce-brphonia-sra-rs.video.globo.com,live-01.gtce-brphonia-sra-rs.video.globo.com,Produção
 gca-net-sne003,edge-claro-sne-sp,vod-03.edge-claro-sne-sp.video.globo.com,live-03.edge-claro-sne-sp.video.globo.com,Deploy
-gca-gtce-sebratel-rsslo001,gtce-sebratel-slo-rs,vod-01.gtce-sebratel-slo-rs.video.globo.com,live-01.gtce-sebratel-slo-rs.video.globo.com,Deploy
+gca-gtce-sebratel-rsslo001,gtce-sebratel-slo-rs,vod-01.gtce-sebratel-slo-rs.video.globo.com,live-01.gtce-sebratel-slo-rs.video.globo.com,Produção
 gca-claro-rspet001,edge-claro-pet-rs,vod-01.edge-claro-pet-rs.video.globo.com,live-01.edge-claro-pet-rs.video.globo.com,Deploy
 gca-claro-rjmqu001,edge-claro-mqu-rj,vod-01.edge-claro-mqu-rj.video.globo.com,live-01.edge-claro-mqu-rj.video.globo.com,Deploy
 gca-net-spsjp003,edge-claro-sjp-sp,vod-03.edge-claro-sjp-sp.video.globo.com,live-03.edge-claro-sjp-sp.video.globo.com,Deploy
@@ -231,7 +231,7 @@ gca-net-rjntr002,edge-claro-ntr-rj,vod-02.edge-claro-ntr-rj.video.globo.com,live
 gca-net-gyn002,edge-claro-gyn-go,vod-02.edge-claro-gyn-go.video.globo.com,live-02.edge-claro-gyn-go.video.globo.com,Deploy
 gca-claro-mgvag001,edge-claro-vag-mg,vod-01.edge-claro-vag-mg.video.globo.com,live-01.edge-claro-vag-mg.video.globo.com,Deploy
 gca-claro-mgudi001,edge-claro-udi-mg,vod-03.edge-claro-udi-mg.video.globo.com,live-03.edge-claro-udi-mg.video.globo.com,Deploy
-gca-gtce-a51tel-msppa001,gtce-a51tel-ppa-ms,vod-01.gtce-a51tel-ppa-ms.video.globo.com,live-01.gtce-a51tel-ppa-ms.video.globo.com,Deploy
+gca-gtce-a51tel-msppa001,gtce-a51tel-ppa-ms,vod-01.gtce-a51tel-ppa-ms.video.globo.com,live-01.gtce-a51tel-ppa-ms.video.globo.com,Produção
 gca-k2-rjgpm002,edge-k2-gpm-rj,vod-02.edge-k2-gpm-rj.video.globo.com,live-02.edge-k2-gpm-rj.video.globo.com,Produção
 gca-gtce-lsmrnet-ammao001,gtce-lsmrnet-mao-am,vod-01.gtce-lsmrnet-mao-am.video.globo.com,live-01.gtce-lsmrnet-mao-am.video.globo.com,Deploy
 gca-4wnet-bvb001,edge-4wn-bvb-rr,vod-01.edge-4wn-bvb-rr.video.globo.com,live-01.edge-4wn-bvb-rr.video.globo.com,Produção
