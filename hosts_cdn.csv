@@ -1,6 +1,8 @@
 Hostname,Label,Vod,Live,Situação
 
-
+gca-gtce-tbytes-pemnb001,gtce-tbytes-mnb-pe,vod-01.gtce-tbytes-mnb-pe.video.globo.com,live-01.gtce-tbytes-mnb-pe.video.globo.com,Deploy
+gca-gtce-smartech-mgldp001,gtce-smartech-ldp-mg,vod-01.gtce-smartech-ldp-mg.video.globo.com,live-01.gtce-smartech-ldp-mg.video.globo.com,Deploy
+gca-gtce-falcaonet-peghu001,gtce-falcaonet-ghu-pe,vod-01.gtce-falcaonet-ghu-pe.video.globo.com,live-01.gtce-falcaonet-ghu-pe.video.globo.com,Deploy
 gca-gtce-infor-bavca001,gtce-infor-vca-ba,vod-01.gtce-infor-vca-ba.video.globo.com,live-01.gtce-infor-vca-ba.video.globo.com,Deploy
 gca-gtce-inetvip-mglst001,gtce-inetvip-lst-mg,vod-01.gtce-inetvip-lst-mg.video.globo.com,live-01.gtce-inetvip-lst-mg.video.globo.com,Deploy
 gca-vivo-spovun001,edge-vivo-vun-sp,vod-01.edge-vivo-vun-sp.video.globo.com,live-01.edge-vivo-vun-sp.video.globo.com,Produção
